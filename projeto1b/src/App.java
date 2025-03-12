@@ -11,5 +11,6 @@ public class App {
  System.out.println("Categoria: "+p.classifica());
  s.close();
   //teste aula 4
+  //teste 2 aula 4
  }
 }
